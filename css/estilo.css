@@ -1,0 +1,72 @@
+
+/*Logo*/
+.navbar img {
+    width: 100px;
+    border-radius: 12px
+}
+
+/*Inicio*/
+.link {
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+
+
+
+
+
+/*margen btn agregar cart*/
+.btn {
+    margin:40px;  
+}
+
+
+/*Productos*/
+#subtitulos {
+    padding: 20px;
+    text-align: center;
+}
+#subtitulos::before{
+    position: absolute;
+    font-family: 'Bodoni Moda', serif;
+    font-family: 200px;
+    content: "";
+    width: 4px;
+    height: 50px;
+    background-color:rgb(116, 4, 4);
+    left: -20px;
+    top: 50%;
+    transform: translateY(-50%);   
+}
+
+.img {
+    width: 220px;
+    height: 50%;
+}
+
+#header{
+    background: url(../assets/img/2500.jpg) top/cover no-repeat;
+}
+
+.text-h{
+    font-size: 120px;
+    background-color: rgb(107, 107, 107);
+    padding: 5px 5px;
+    border-radius: 25px;
+}
+
+#btn-header{
+    background-color: white;
+    font-size: 20px;
+    padding: 10px 28px;
+    border-radius: 25px;
+    border: 2px solid rgb(172, 168, 168);
+}
+#btn-header:hover{
+    background-color: rgb(116, 4, 4);
+    color: white;
+    border-color:rgb(116, 4, 4);
+    
+}

@@ -1,0 +1,53 @@
+[
+    {
+        "id":1, 
+        "nombre":"Remera Nirvana", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/nirvana.png"},
+    {
+        "id":2 , 
+        "nombre":"Remera Metallica", 
+        "precio":700, 
+        "stock":20, 
+        "img": "assets/img/metallica.png"},
+    {
+        "id":3 , 
+        "nombre":"Remera AC/DC", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/acdc.png"},
+    {
+        "id":4 , 
+        "nombre":"Remera Guns N' Roses", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/guns.png"},
+    {
+        "id":5 , 
+        "nombre":"Remera Aerosmith", 
+        "precio":700, 
+        "stock":20, 
+        "img":"assets/img/aer.png"},
+    {
+        "id":6 , 
+        "nombre":"Remera Bon Jovi", 
+        "precio":700, 
+        "stock":20, 
+        "img": "assets/img/bj.png"},
+    {
+        "id":7 , 
+        "nombre":"Canguro Nirvana", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/nirvanaH.jpg"},
+    {
+        "id":8 , 
+        "nombre":"Canguro AC/DC", 
+        "precio":1000, 
+        "stock":20, 
+        "img": "assets/img/acdcH.jpg"}
+
+
+]
+
